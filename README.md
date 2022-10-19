@@ -3,7 +3,7 @@
 <h3 align="center">I'm glad to see you on my profile, let me introduce myself</h3>
 
 ## Bio 📄
-  My name is Maksim and I am 22 years old. I successfully completed my Bachelor's degree in Economics in 2022 and decided to develop myself further in the field of data analysis. Using the knowledge I gained at university, online courses, intensives and online sources, I want to hone my skills, participate in interesting projects and do my own research on data.
+  My name is Maksim. I successfully completed my Bachelor's degree in Economics in 2022 and decided to develop myself further in the field of data analysis. Using the knowledge I gained at university, online courses, intensives and online sources, I want to hone my skills, participate in interesting projects and do my own research on data.
 ## GitHub 💻
   I hope that the gradual development of a GitHub profile will not only help me to evaluate my growing skills and collection of completed projects, but also allow me to meet cool people from Data Science and gain their experience and knowledge.
 ## Coding 🔨
